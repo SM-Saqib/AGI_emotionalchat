@@ -1,0 +1,1 @@
+FROM lukalabs/cakechat-gpu:latest
